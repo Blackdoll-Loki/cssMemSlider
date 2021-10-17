@@ -37,7 +37,7 @@ body{
 .slide img {
     display: block;
     margin-top: 5vh;
-    height: 80vh;
+    height: auto;
     max-width: 100%;
 }
 #carousel-1:checked ~ .control-1,
